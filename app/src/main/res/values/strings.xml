@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NTSDemo</string>
+
+    <string name="wifi_hotspot">Wi-Fi Hotspot</string>
+    <string name="wifi_hotspot_start">Wi-Fi Hotspot Start</string>
+    <string name="wifi_hotspot_stop">Wi-Fi Hotspot Stop</string>
+
+</resources>
